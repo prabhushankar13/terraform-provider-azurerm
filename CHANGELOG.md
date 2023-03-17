@@ -2,7 +2,7 @@
 
 ENHANCEMENTS:
 
-* dependencies: updating to `v0.20230313.1140427` of `github.com/hashicorp/go-azure-sdk` [GH-20918]
+* dependencies: updating to `v0.20230313.1140427` of `github.com/hashicorp/go-azure-sdk` [GH-20918] 
 
 BUG FIXES:
 
